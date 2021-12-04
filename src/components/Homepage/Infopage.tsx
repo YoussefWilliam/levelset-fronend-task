@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { useDispatch } from "react-redux";
 import { Cat } from "../../constants/interfaces";
 import { useAppSelector } from "../../redux-store/hooks";
 import CatsList from "./CatsList";

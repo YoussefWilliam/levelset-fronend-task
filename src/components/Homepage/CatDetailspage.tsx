@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Cat } from "../../constants/interfaces";
 import { useAppDispatch } from "../../redux-store/hooks";
 import DeleteModal from "../EditModal/DeleteModal";

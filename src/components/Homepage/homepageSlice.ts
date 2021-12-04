@@ -1,5 +1,5 @@
-import { createAsyncThunk, createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { RootState, AppThunk } from "../../redux-store/store";
+import { createSlice } from "@reduxjs/toolkit";
+import { RootState } from "../../redux-store/store";
 import { Cat } from "../../constants/interfaces";
 import { cats_records } from "../../constants/catsRecords";
 

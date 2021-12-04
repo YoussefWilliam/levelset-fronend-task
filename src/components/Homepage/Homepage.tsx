@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Cat } from "../../constants/interfaces";
-import Example from "../EditModal/Modal";
 import CatDetailspage from "./CatDetailspage";
 import Infopage from "./Infopage";
 

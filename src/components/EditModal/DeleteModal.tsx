@@ -1,5 +1,5 @@
-import React, { Fragment, useRef, useState } from "react";
-import { Dialog, Transition } from "@headlessui/react";
+import React from "react";
+import { Dialog } from "@headlessui/react";
 import { ExclamationIcon } from "@heroicons/react/outline";
 
 const DeleteModal: React.FC = () => {
